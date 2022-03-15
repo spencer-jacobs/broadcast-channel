@@ -5,7 +5,7 @@
   "exports": {
     ".": {
       "node": {
-        "import": "./dist/esnode/index.js",
+        "import": "./dist/es5node/index.js",
         "default": "./dist/es5node/index.js"
       },
       "browser": {
